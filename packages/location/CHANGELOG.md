@@ -1,3 +1,19 @@
+## 6.0.2
+
+- Fix bugs #620 and #864 (#889)
+
+## 6.0.1
+
+- Downgraded location_web dependency on js ^0.7.1 to js ^0.6.3 for compatibility
+  with firebase_core ^2.27.2 (#942)
+
+## 6.0.0
+
+- Bump Android Gradle Plugin from 7.4.2 to 8.3.1
+- Bump minimum supported Android SDK to 21
+- Bump minimum Dart version to 3.1, minimum Flutter version to 3.16
+- Bump dependencies
+
 ## 5.0.3
 
 - Lower minimum iOS deployment target from 13 to 11 (#882 by Matias de Andrea)
